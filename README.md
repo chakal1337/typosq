@@ -16,7 +16,7 @@ gittub.statebank
 lithub.cal
 pithub.softbank
 githu1.cisco
-`` 
+```
 
 └──╼ $python3 typosq.py github.com | shuf | grep "\.com$" | head -n 10
 
@@ -33,4 +33,6 @@ gitpub.com
 githu1.com
 githxb.com
 ```
+
+
 
