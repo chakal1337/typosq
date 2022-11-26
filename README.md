@@ -2,7 +2,7 @@
 very verbose typosquat / domain squat list generator
 
 
-└──╼ $python3 typosq.py github.com | shuf | head -n 10
+python3 typosq.py github.com | shuf | head -n 10
 
 
 ```
@@ -18,7 +18,7 @@ pithub.softbank
 githu1.cisco
 ```
 
-└──╼ $python3 typosq.py github.com | shuf | grep "\.com$" | head -n 10
+python3 typosq.py github.com | shuf | grep "\.com$" | head -n 10
 
 
 ```
